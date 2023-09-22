@@ -42,3 +42,11 @@ body {
     }
   }
   
+  .uppercase-text {
+    text-transform: uppercase;
+  }
+  
+  .text-shadow {
+    text-shadow: 2px 2px 4px #333;
+  }
+  
